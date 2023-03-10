@@ -16,3 +16,11 @@ Differential Equations: This branch of mathematics deals with equations that des
 Linear Algebra: This branch of mathematics deals with the study of vector spaces and linear transformations. It includes topics such as matrices, determinants, eigenvectors, and eigenvalues, and has applications in computer graphics, cryptography, and physics, among other fields.
 
 I hope that my journey towards learning these topics will inspire others to pursue their own learning goals in mathematics and related fields. I invite you to follow along and join me on this exciting adventure!
+
+Strategy:
+- 12th Grade calculus from Sabaq.pk
+- Calculus from Virutal University of Pakistan
+- Thomas Calculus
+- Linear Algebra from VU
+- Differential Equations from VU
+- Statistics from sabaq 14th grade
